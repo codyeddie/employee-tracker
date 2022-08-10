@@ -1,18 +1,18 @@
-USE employee_db;
+USE employee_tracker;
 
-INSERT INTO department (name)
+INSERT INTO department (department_name)
 VALUES 
-('Information Technology'),
+('Technology'),
 ('Sales'),
 ('Maintenance'),
 ('Customer Service');
 
 INSERT INTO roles (title, salary, department_id)
 VALUES
-('Web Developer', 55000, 1),
-('Sales Representative ', 30000, 2),
+('Developer', 55000, 1),
+('Cashier ', 30000, 2),
 ('Janitor', 20000, 3),
-('Lift Truck Operator', 35000, 4);
+('Forklift', 35000, 4);
 
 INSERT INTO employee (first_name, last_name, roles_id, manager_id)
 VALUES 
