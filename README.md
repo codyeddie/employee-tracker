@@ -18,4 +18,4 @@ I utilized my tutor and referenced previous module work and lessons to complete 
 ## Video-Demo
 https://drive.google.com/file/d/1ovHTuswepR7b4i8Zi33WDCS2Tk7mReXN/view
 
-(./assets/screenshot.png)
+![Screenshot](/assets/screenshot.png)
